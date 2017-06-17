@@ -5,10 +5,10 @@ except:
 
 config = {
     'description': 'My Project',
-    'author': 'Aric Chokey',
+    'author': 'My Name',
     'url': 'URL to get it at.',
     'download_url': 'Where to download it.',
-    'author_email': 'achokey21@gmail.com',
+    'author_email': 'My email.',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['NAME'],

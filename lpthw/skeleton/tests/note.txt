@@ -1,0 +1,1 @@
+All test files should be named NAME_tests.py in order for nosetests to run them.
